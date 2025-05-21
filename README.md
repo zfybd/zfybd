@@ -16,7 +16,6 @@ I'm a data enthusiast with a passion for uncovering insights through analytics a
 ## 💞️ Looking to Collaborate On
 - Data science projects that make an impact
 - Open-source analytics tools
-- FinTech or HealthTech data challenges
 
 ## 📫 Contact Me
 - 🔗 LinkedIn: [fanyi-zhao-bd7794](https://www.linkedin.com/in/fanyi-zhao-bd7794)
