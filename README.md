@@ -38,10 +38,6 @@ Here are a few projects that reflect my interests and experience:
 
 - 📚 [**Software-Design**](https://github.com/zfybd/Software-Design): A flashcards app built with a focus on UI/UX and educational value.
 
----
-
-### 🛠 GitHub Stats
-![Fanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfybd&show_icons=true&theme=default)
 
 ---
 
