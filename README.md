@@ -1,4 +1,4 @@
-- # 👋 Hi, I’m Fanyi
+ # 👋 Hi, I’m Fanyi
 
 I'm a data enthusiast with a passion for uncovering insights through analytics and machine learning. I enjoy solving real-world problems and continuously learning new technologies to expand my skill set.
 
