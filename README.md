@@ -10,8 +10,8 @@ I'm a data enthusiast with a passion for uncovering insights through analytics a
 
 ## 🌱 Currently Learning
 - Advanced statistical modeling
-- Deployment of ML models (e.g., Streamlit, Flask)
-- SQL optimization and data engineering basics
+- Deployment of ML models 
+- SQL optimization and data engineering 
 
 ## 💞️ Looking to Collaborate On
 - Data science projects that make an impact
